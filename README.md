@@ -1,1 +1,3 @@
-# nowyouaretherewhenthishappened
+# now you are there when this happened
+
+The project focuses on time and memory, building on previous projects both thematically and technically. It involves audio, visual, and interactive elements inspired by various memory models. One model explored is episodic memory vs semantic memory, with the recording of a previous musical performance representing episodic memory and serving as an invitation to unlock semantic memory. Another model is the tri-part construct of sensory memory, short-term memory, and long-term memory. The project also explores the impact of spatial sounds on memory encoding and uses scattered instruments and visual effects to create a memorable experience. A particle system provides dynamic interaction and connects visual and audio elements. Additionally, a video delay line creates ghostly copies of viewers for interactive engagement.
